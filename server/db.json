@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Manoj",
+      "email": "raj@gmail.com",
+      "phone": "9874563210",
+      "dob": "20/01/1987"
+    },
+    {
+      "name": "satish",
+      "email": "ralawob748@nmaller.com",
+      "phone": "1234567890",
+      "dob": "12/06/2021",
+      "id": 8
+    },
+    {
+      "name": "swati",
+      "email": "swatimore9312@gmail.com",
+      "phone": "8237917288",
+      "dob": "24/08/2001",
+      "id": 9
+    },
+    {
+      "name": "abc",
+      "email": "abc12@gmail.com",
+      "phone": "1234567890",
+      "dob": "1/1/2021",
+      "id": 10
+    }
+  ]
+}
